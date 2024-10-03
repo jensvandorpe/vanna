@@ -1,0 +1,2 @@
+# Web server (for running Python apps on Heroku)
+gunicorn==20.1.0
